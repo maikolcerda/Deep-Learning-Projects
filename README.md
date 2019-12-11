@@ -1,5 +1,3 @@
-# deep_learning
- Jupyter Notebook
 # Deep Learning Specialization on Coursera
 ### [Master Deep Learning, and Break into AI](https://www.coursera.org/specializations/deep-learning)
 
